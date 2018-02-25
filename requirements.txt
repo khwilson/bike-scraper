@@ -1,0 +1,4 @@
+click
+requests
+psycopg2-binary
+pyyaml
